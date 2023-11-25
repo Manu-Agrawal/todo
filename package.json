@@ -1,5 +1,6 @@
 {
-  "homepage": "https://<Username>.github.io/<Repository-name>""name": "todo-list",
+  "homepage": "https://Manu-Agrawal.github.io/todo",
+  "name": "todo-list",
   "private": true,
   "version": "0.0.0",
   "type": "module",
